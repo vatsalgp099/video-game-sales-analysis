@@ -4,6 +4,8 @@
 A case study on the sales of video games and analyzing the data to get the required answers. 
 
 
+![image](https://user-images.githubusercontent.com/68069100/232745652-d5785efa-e1b0-41bb-8e2e-89fc519abf05.png)
+
 
 
 
