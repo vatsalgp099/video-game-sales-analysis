@@ -18,7 +18,7 @@ To analyze top 10 video games with respect to publishers and platforms. Furtherm
 ## Table of Contents
 
 * [Author](#author)
-* Data Source
+* [Data Source](#data-source)
 * Methodology 
 * Tech Stack 
 * Identifying Stakeholders
@@ -67,6 +67,9 @@ To analyze top 10 video games with respect to publishers and platforms. Furtherm
 * Gamers (Customers)
 * Manufacturers 
 ## Exploring Data using MS Excel 
+
+
+
 ## Tableau Dashboard 
 ## SQL Queries
 ## Data Viz using Python 
