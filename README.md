@@ -17,7 +17,7 @@ To analyze top 10 video games with respect to publishers and platforms. Furtherm
 
 ## Table of Contents
 
-* [Author](https://www.linkedin.com/in/vatsalgupta09/)
+* [Author](Author)
 * Data Source
 * Methodology 
 * Tech Stack 
