@@ -19,15 +19,15 @@ To analyze top 10 video games with respect to publishers and platforms. Furtherm
 
 * [Author](#author)
 * [Data Source](#data-source)
-* Methodology 
-* Tech Stack 
+* [Methodology](#methodology)
+* [Tech Stack](#tech-stack) 
 * Identifying Stakeholders
 * Exploring data using MS Excel
 * [Tableau Dashboard](https://public.tableau.com/app/profile/vatsal.gupta3790/viz/VideoGamesSalesDashboard_16816450539260/Dashboard1)
-* SQL Queries
-* Data Viz using Python
-* Results
-* Blog
+* [SQL Queries](#sql-queries)
+* [Data Viz using Python](data-viz-using-python)
+* [Results](#results)
+* [Blog](#blog)
 * Suggestions(Feedback) 
 
 ## Author
@@ -170,6 +170,11 @@ Top 10 video games with respect to publishers and platforms were visualized. Fro
 * We can finally conclude that the Global market share of any game does not influence the box office collection of the movie based on the game. 
 
 ## Blog
+
+I just wanted to show that Python can do the job in one go and is always an alternative for data analysis and visualizations. Read my blog on Data visualizations to better this understanding. 
+
+[Click here to read the blog](https://vatsal0901.medium.com/data-viz-how-to-choose-9ff34d58b7c3)
+
 ## Suggestions(Feedback)
 
 A few suggestions that can be put in place after analyzing the data: 
