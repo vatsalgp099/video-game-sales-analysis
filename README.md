@@ -158,6 +158,22 @@ A - ![Screenshot (95)](https://user-images.githubusercontent.com/68069100/232767
 
 ## Results 
 
+Top 10 video games with respect to publishers and platforms were visualized. From the above data viz we can conclude :
+
+* Wii sports is the top performing game in terms of Global Sales. 
+* Nintendo controls the global market share of the top 10 as a publisher.
+* In the top games, nintendo has published the most games and on different gaming platforms which will diversify their games and will give the user an option to choose.
+* We can say that Nintendo has also published games in all of the genres and hence is justified that it controls the market share. 
+* Genres with the most games are Role-playing and Shooter.
+* Sum of box office collection of the movies by the publisher is by Capcom whereas global sale share of it's games is 200.89.
+* Highest Global sales is by nintendo whereas the sum of the box office collection of it's movies is just a little over the mark of 0. 
+* We can finally conclude that the Global market share of any game does not influence the box office collection of the movie based on the game. 
 
 ## Blog
 ## Suggestions(Feedback)
+
+A few suggestions that can be put in place after analyzing the data: 
+
+* Publishers should publish games as a multi platform model. 
+* Publishers should diversify their genres. 
+* If nintendo has to maintain their lead they should also focus on the movie adaptations of their games. 
